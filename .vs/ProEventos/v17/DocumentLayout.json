@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mariana.matos\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\Documentos\\Pool de Forma\u00E7\u00E3o\\Curso Udemy - FullStack\\ProEventos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C110288B-01AF-4118-8612-5996CC075C42}|Back\\src\\ProEventos.API\\ProEventos.API.csproj|c:\\users\\mariana.matos\\onedrive - jm confitec sistemas de computa\u00E7\u00E3o ltda\\documentos\\pool de forma\u00E7\u00E3o\\curso udemy - fullstack\\proeventos\\back\\src\\proeventos.api\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C110288B-01AF-4118-8612-5996CC075C42}|Back\\src\\ProEventos.API\\ProEventos.API.csproj|solutionrelative:back\\src\\proeventos.api\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventosController.cs",
+              "DocumentMoniker": "C:\\Users\\mariana.matos\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\Documentos\\Pool de Forma\u00E7\u00E3o\\Curso Udemy - FullStack\\ProEventos\\Back\\src\\ProEventos.API\\Controllers\\EventosController.cs",
+              "RelativeDocumentMoniker": "Back\\src\\ProEventos.API\\Controllers\\EventosController.cs",
+              "ToolTip": "C:\\Users\\mariana.matos\\OneDrive - JM Confitec Sistemas de Computa\u00E7\u00E3o LTDA\\Documentos\\Pool de Forma\u00E7\u00E3o\\Curso Udemy - FullStack\\ProEventos\\Back\\src\\ProEventos.API\\Controllers\\EventosController.cs",
+              "RelativeToolTip": "Back\\src\\ProEventos.API\\Controllers\\EventosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T23:26:24.944Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
